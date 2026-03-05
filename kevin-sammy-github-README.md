@@ -1,6 +1,6 @@
 # Hi, I'm Kevin Sammy 👋
 
-**IT Professional & Software Engineering Student | Nairobi, Kenya 🇰🇪**
+**IT Professional & Software Engineering Student | 
 
 [![BU](https://img.shields.io/badge/Boston_University-MS_Software_Engineering-CC0000?style=flat-square&logo=academia&logoColor=white)](https://bu.edu)
 [![CCNA](https://img.shields.io/badge/Cisco-CCNA_Certified-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](https://cisco.com)
